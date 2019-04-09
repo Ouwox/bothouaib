@@ -9,7 +9,7 @@ bot.on('ready', function() {
 
 });
 
-bot.login('NTY0NDQ5NDA2MzU5Njk5NDU2.XKsAYQ.xjx8dMZZIKiZckYQZ6IhTnlf8s8');
+bot.login('NTY0NDQ5NDA2MzU5Njk5NDU2.XKxx_w.bgdKL_sXyzrpoo8TRnVy9pzmHsQ');
 
 bot.on('message', message => {
     if(message.content === prefix + "help"){
